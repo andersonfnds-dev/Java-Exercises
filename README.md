@@ -1,2 +1,3 @@
 # projetos_andersonfndsdev
-Repositório com alguns dos meus projetos em Java
+
+Some exercices i've been doing with Java. 
