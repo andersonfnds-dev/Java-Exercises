@@ -20,7 +20,7 @@ public class Lista {
 			System.out.println(u);
 		}
 		
-		
+		//Book b1 = new Book("Crime and Punishment", "Fyodor Dostoevsky", "978657423894" , "Fiction" , 35.50);
 	}
 
 }

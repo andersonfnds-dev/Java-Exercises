@@ -22,7 +22,7 @@ public class CriandoStreams {
 		
 		List<String> outrasLangs = Arrays.asList("PHP ", "Kotlin ", "C\n");
 		
-		outrasLangs.stream().forEach(print);
+		outrasLangs.stream().forEach(System.out::print);
 		outrasLangs.parallelStream().forEach(print);
 		
 		//Stream.generate( () -> "a").forEach(print);			geradores infinitos
